@@ -109,3 +109,7 @@ please visit our `forum`_.
 
 .. _forum: https://discourse.beets.io
 .. _Adrian Sampson: http://www.cs.cornell.edu/~asampson/
+
+
+Here Comes Docker
+-----------------
