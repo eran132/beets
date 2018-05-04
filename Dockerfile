@@ -1,7 +1,6 @@
 FROM python:2
 
 MAINTAINER eran132@gmail.com
-:x
 WORKDIR /usr/src/app
 
 COPY requirements.txt ./
